@@ -2,12 +2,18 @@
 
 
 
-Bike sharing systems have been increasing in demand over the past two decades as a result of rapid advancements in technology. Healthy Ride
-is a public bicycle sharing system that serves parts of Pittsburgh to fulfill the growing need for changes in mobility pattern. With 100
-stations, the city has plans to add 75 more stations in 2019, including several electric bikes to help riders navigate Pittsburgh’s hilly
-geography, located throughout the city. 
 
+Introduction:
 
- Bike-sharing systems are used world-wide. Given that the system tends to be unbalanced, particularly  at peak demand hours,
- there are challenging analytical issues such as accurately predicting the demand.This project explores on predicting the total count
- of bikes rented during each hour covered by the Healthy Ride operated by Pittsburgh Bike Share. 
+Bike sharing systems have been increasing in demand over the past two decades as a result of rapid advancements in technology. Healthy Ride is a public bicycle sharing system that serves parts of Pittsburgh to fulfill the growing need for changes in mobility pattern. Healthy Ride is operated by Pittsburgh Bike Share and has plans for expansion to reach new neighborhoods by adding more stations, including several electric bikes to help riders navigate Pittsburgh’s hilly geography, located throughout the city. 
+In this project, we determine the results of machine learning models such as decision tree, Lasso, Ridge Regression, Random forests, Support-Vector, XG Boosting, Gradient Boosting and Linear Regression. The effect of factors such as weather, geographic location, time of day, day of week. Bike score, Walk-score, distance between stations etc. on the number of bikes at bike-share station are investigated.
+
+Problem:
+
+Bike-sharing systems are used world-wide. Given that the system tends to be unbalanced, there are challenging analytical issues such as accurately predicting the demand. This project explores on predicting the total number of bikes rented from individual stations on any given day.
+
+Clients:
+
+Bike sharing operators can use this model to proactively shape the mobility market by forecasting demand prediction and to meet customer expectations.
+
+![Project Workflow](C:\Users\Megha Rao\flowchart.png)
