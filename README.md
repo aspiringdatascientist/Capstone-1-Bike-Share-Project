@@ -124,7 +124,7 @@ As per the article posted in Pittsburgh Post-Gazette, published on DEC 3, 2018; 
 
 Final PDF report:
 
-
+https://github.com/aspiringdatascientist/Capstone-1-Bike-Share-Project/blob/master/Pittsburgh_bike_share_Capstone1_Report.pdf
 
 
 
