@@ -15,5 +15,3 @@ Bike-sharing systems are used world-wide. Given that the system tends to be unba
 Clients:
 
 Bike sharing operators can use this model to proactively shape the mobility market by forecasting demand prediction and to meet customer expectations.
-
-![Project Workflow](C:\Users\Megha Rao\flowchart.png)
