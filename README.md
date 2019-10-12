@@ -118,5 +118,14 @@ What is the number of bike rentals per day? This would be our target variable. T
 
 https://github.com/aspiringdatascientist/Bike-Share-Project/blob/master/number%20of%20bike%20rentals.ipynb
 
+Below is the link to Data EDA along with Inferential Statistics:
+https://github.com/aspiringdatascientist/Capstone-1-Bike-Share-Project/blob/master/Data%20exploration%2C%20visualization%20and%20inferential%20statistics.ipynb
+As per the article posted in Pittsburgh Post-Gazette, published on DEC 3, 2018; there was a noticeable drop in ridership from 2016 to 2017. I wanted to test whether this hypothesis is commensurate with the data.
+
+Final PDF report:
+
+
+
+
 
 
