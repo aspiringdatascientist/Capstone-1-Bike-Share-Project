@@ -20,6 +20,11 @@ Link to the final project with all the code, implementation and evaluation of mo
 
 https://github.com/aspiringdatascientist/Capstone-1-Bike-Share-Project/blob/master/Capstone%201%20project%20%20-%20Pittsburgh%20Bike%20share%20demand%20prediction%20(2).ipynb
 
+Project Workflow:
+
+![flow_chart](https://user-images.githubusercontent.com/48024013/66728647-23ddb600-ee14-11e9-85cd-d27ea8a91965.jpg)
+
+
 Data Collection:
 
 Healthy Ride operated by Pittsburgh Bike Share data: 
