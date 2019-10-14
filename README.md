@@ -51,7 +51,7 @@ https://www.walkscore.com
 
 Bike Score service measures whether a location is good for biking on a scale from 0 - 100 based on four equally weighted components: -Bike lanes, Hills, Destinations and road connectivity. Transit Score is a patented measure of how well a location is served by public transit on a scale from 0 to 100. Walk Score measures the walkability of any address.
 
-Data Cleaning and Data Wrangling:
+Data Cleaning and Data Wrangling ising pandas:
 
 Step 1:
 
@@ -103,19 +103,15 @@ Step 7:
 A separate “weather” column was added to the main data frame after scoring, based on windspeed, rain, fog, lightening, temperature, and also event types such as tornados, hurricanes as below:
           0 = Worst weather including all the event types listed in the Storm dataset 
          1 = Moderate weather including
-         2 = Good weather not listed in either 1 or 2 
+         2 = Good weather not listed in either 1 or 2          
          
-         
-Github link:
-
 https://github.com/aspiringdatascientist/Bike-Share-Project/blob/master/weather%20final%20.ipynb
+
          
 I formatted the “Storm” dataset downloaded from NOAA website  as below:
 
 https://github.com/aspiringdatascientist/Bike-Share-Project/blob/master/stormalleghany2.ipynb
 
-         
-         
 
 Step 8:
 
@@ -123,8 +119,14 @@ What is the number of bike rentals per day? This would be our target variable. T
 
 https://github.com/aspiringdatascientist/Bike-Share-Project/blob/master/number%20of%20bike%20rentals.ipynb
 
+•	Data Visualization using seaborn and Matplotlib
+•	Inferential Statistics using SciPy and frequentist approach
+  	-Hypothesis testing: Upper one-tailed upper z-test
+
+
 Below is the link to Data EDA along with Inferential Statistics:
-https://github.com/aspiringdatascientist/Capstone-1-Bike-Share-Project/blob/master/Data%20exploration%2C%20visualization%20and%20inferential%20statistics.ipynb
+
+https://github.com/aspiringdatascientist/Capstone-1-Bike-ShareProject/blob/master/Data%20exploration%2C%20visualization%20and%20inferential%20statistics.ipynb
 As per the article posted in Pittsburgh Post-Gazette, published on DEC 3, 2018; there was a noticeable drop in ridership from 2016 to 2017. I wanted to test whether this hypothesis is commensurate with the data.
 
 Final PDF report:
