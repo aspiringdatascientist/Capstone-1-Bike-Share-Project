@@ -16,7 +16,7 @@ Clients:
 
 Bike sharing operators can use this model to proactively shape the mobility market by forecasting demand prediction and to meet customer expectations.
 
-Link to the final project with all the code, data analytics:
+Link to the final project with all the code, implementation and evaluation of models and data analytics, :
 
 https://github.com/aspiringdatascientist/Capstone-1-Bike-Share-Project/blob/master/Capstone%201%20project%20%20-%20Pittsburgh%20Bike%20share%20demand%20prediction%20(2).ipynb
 
