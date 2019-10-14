@@ -51,7 +51,7 @@ https://www.walkscore.com
 
 Bike Score service measures whether a location is good for biking on a scale from 0 - 100 based on four equally weighted components: -Bike lanes, Hills, Destinations and road connectivity. Transit Score is a patented measure of how well a location is served by public transit on a scale from 0 to 100. Walk Score measures the walkability of any address.
 
-Data Cleaning and Data Wrangling ising pandas:
+Data Cleaning and Data Wrangling:
 
 Step 1:
 
@@ -126,6 +126,12 @@ Below is the link to Data EDA along with Inferential Statistics:
 Data Visualization was done using seaborn and Matplotlib and Inferential Statistics using SciPy and frequentist approach as provided in the link below:
   
 https://github.com/aspiringdatascientist/Capstone-1-Bike-Share-Project/blob/master/Data%20exploration%2C%20visualization%20and%20inferential%20statistics.ipynb
+
+Example snippets:
+![bikeimage1](https://user-images.githubusercontent.com/48024013/66766477-2ffd5e00-ee7c-11e9-9613-7dc9c118143d.png)
+![bike2image](https://user-images.githubusercontent.com/48024013/66766654-9bdfc680-ee7c-11e9-81ee-e7a8172a47dc.png)
+![bike3mage](https://user-images.githubusercontent.com/48024013/66766810-05f86b80-ee7d-11e9-8a31-0a29b8988269.png)
+
 
 As per the article posted in Pittsburgh Post-Gazette, published on DEC 3, 2018; there was a noticeable drop in ridership from 2016 to 2017. I wanted to test whether this hypothesis is commensurate with the data.
 
