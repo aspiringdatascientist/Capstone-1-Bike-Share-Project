@@ -121,7 +121,6 @@ https://github.com/aspiringdatascientist/Bike-Share-Project/blob/master/number%2
   	-Hypothesis testing: Upper one-tailed upper z-test
 
 
-Below is the link to Data EDA along with Inferential Statistics:
 
 Data Visualization was done using seaborn and Matplotlib and Inferential Statistics using SciPy and frequentist approach as provided in the link below:
   
@@ -132,8 +131,19 @@ Example snippets:
 ![bike2image](https://user-images.githubusercontent.com/48024013/66766654-9bdfc680-ee7c-11e9-81ee-e7a8172a47dc.png)
 ![bike3mage](https://user-images.githubusercontent.com/48024013/66766810-05f86b80-ee7d-11e9-8a31-0a29b8988269.png)
 
+Inferential Statistics:
+https://github.com/aspiringdatascientist/Capstone-1-Bike-Share-Project/blob/master/project%20inferential_stat.ipynb
 
 As per the article posted in Pittsburgh Post-Gazette, published on DEC 3, 2018; there was a noticeable drop in ridership from 2016 to 2017. I wanted to test whether this hypothesis is commensurate with the data.
+
+Regression models:
+
+The metrics considered for evaluation are R^2 and RMSE, where R^2 is the fraction of response variance that is captured by the model, and RMSE is root mean squared error.
+Below is the list of models tried out with all the features, their respective R^2 scores, 5-fold cross-validation scores and RMSE (Root Mean Square Error):
+
+![bikeimage4](https://user-images.githubusercontent.com/48024013/66772136-08ad8d80-ee8a-11e9-98c6-247b4de34511.jpg)
+
+Random forest regressor proved to be the best model to predict the daily number of bike share users as it has R^2 closer to 1 and also has the lowest RMSE
 
 Final PDF report:
 
