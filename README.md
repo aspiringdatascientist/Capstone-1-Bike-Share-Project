@@ -49,7 +49,51 @@ Bike score, Transit Score, Walk score Data:
 
 https://www.walkscore.com
 
-Bike Score service measures whether a location is good for biking on a scale from 0 - 100 based on four equally weighted components: -Bike lanes, Hills, Destinations and road connectivity. Transit Score is a patented measure of how well a location is served by public transit on a scale from 0 to 100. Walk Score measures the walkability of any address.
+Bike Score service measures whether a location is good for biking on a scale from 0 - 100 based on four equally weighted components: -Bike lanes, Hills, Destinations and road connectivity,Bike commuting mode share . 
+ 
+
+Bike Score Description: 
+
+90–100 : Biker's Paradise - Daily errands can be accomplished on a bike.
+
+70–89 : Very Bikeable - Biking is convenient for most trips.
+
+50–69: Bikeable - Some bike infrastructure.
+
+0–49: Somewhat Bikeable -Minimal bike infrastructure.
+
+
+ 
+Transit Score :   
+The score API call returns a Transit Score for a location that is an integer between 0 and 100.Transit Score is a patented measure of how well a location is served by public transit on a scale from 0 to 100.
+
+Transit Score Description:
+
+90–100 : Rider's Paradise - World-class public transportation.
+
+70–89: Excellent Transit - Transit is convenient for most trips.
+
+50–69: Good Transit - Many nearby public transportation options.
+
+25–49: Some Transit - A few nearby public transportation options.
+
+0–24: Minimal Transit - It is possible to get on a bus.
+
+Wlak score methodology: Walk Score measures the walkability of any address.
+ 
+Walk Score Description:
+
+90–100: Walker's Paradise - Daily errands do not require a car.
+
+70–89: Very Walkable - Most errands can be accomplished on foot.
+
+50–69: Somewhat Walkable - Some errands can be accomplished on foot.
+
+25–49: Car-Dependent - Most errands require a car.
+
+0–24: Car-Dependent - Almost all errands require a car.
+
+
 
 Data Cleaning and Data Wrangling:
 
