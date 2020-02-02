@@ -161,7 +161,7 @@ Step 8:
 
 What is the number of bike rentals per day? This would be our target variable. To do this, a pandas group-by function was performed for counting the number of trips per day. 
 
-https://github.com/aspiringdatascientist/Bike-Share-Project/blob/master/number%20of%20bike%20rentals.ipynb	
+https://github.com/aspiringdatascientist/Capstone-1-Bike-Share-Project/blob/master/number%20of%20bike%20rentals%20per%20day.ipynb
 
 
  [Inferential Statistics](https://github.com/aspiringdatascientist/Capstone-1-Bike-Share-Project/blob/master/project%20inferential_stat.ipynb)  -Hypothesis testing: Upper one-tailed upper z-test
